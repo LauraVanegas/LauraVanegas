@@ -15,3 +15,6 @@ As I continue my journey in QA Automation, I am always on the lookout for collab
 
 ## Hobbies
 - Dancing: ...
+
+## Lenguages
+hola lenguages
